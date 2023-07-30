@@ -10,7 +10,7 @@ You can download the packs directly from the [Releases](https://github.com/gorib
 <br><sub>**Please note that these are the only platforms I released my packs on. If you see them anywhere else, it was uploaded without my permission.**</sub><br>
 
 - [Planet Minecraft](https://www.planetminecraft.com/member/goribby/submissions)
-- [Modrinth](https://modrinth.com/resourcepack/goribbys-3d)
+- [Modrinth](https://modrinth.com/user/goribby)
 - *TODO: Add more platforms.*
 
 # Installing
