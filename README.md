@@ -11,7 +11,7 @@ You can download the packs directly from the [Releases](https://github.com/gorib
 
 - [Planet Minecraft](https://www.planetminecraft.com/member/goribby/submissions)
 - [Modrinth](https://modrinth.com/user/goribby)
-- *TODO: Add more platforms.*
+- [Curseforge](https://legacy.curseforge.com/members/goofy_saha78/projects)
 
 # Installing
 
