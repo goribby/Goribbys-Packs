@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "blockbench/parent_planks_stairs_outer",
+	"textures": {
+		"0": "block/crimson_planks",
+		"particle": "block/crimson_planks"
+	}
+}

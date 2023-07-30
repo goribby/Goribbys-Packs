@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "blockbench/cut_copper_parent",
+	"textures": {
+		"particle": "block/oxidized_cut_copper",
+		"all": "block/oxidized_cut_copper"
+	}
+}

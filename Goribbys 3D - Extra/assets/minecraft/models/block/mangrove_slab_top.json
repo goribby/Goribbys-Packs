@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "blockbench/parent_planks_slab_top",
+	"textures": {
+		"0": "block/mangrove_planks",
+		"particle": "block/mangrove_planks"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "blockbench/parent_planks_fence_post",
+	"textures": {
+		"0": "block/warped_planks",
+		"particle": "block/warped_planks"
+	}
+}

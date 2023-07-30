@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "blockbench/parent_planks_fence_side",
+	"textures": {
+		"0": "block/dark_oak_planks",
+		"particle": "block/dark_oak_planks"
+	}
+}

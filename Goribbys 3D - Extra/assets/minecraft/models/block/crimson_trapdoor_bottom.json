@@ -1,0 +1,82 @@
+{
+	"credit": "By GORIBBY. Made with Blockbench.",
+	"parent": "minecraft:block/template_orientable_trapdoor_bottom",
+	"textures": {
+		"particle": "block/crimson_trapdoor",
+		"texture": "block/crimson_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 3, 16],
+			"faces": {
+				"north": {"uv": [13, 0, 16, 3], "texture": "#texture", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#texture"},
+				"south": {"uv": [0, 0, 3, 3], "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0, 16, 3, 0], "texture": "#texture"},
+				"down": {"uv": [0, 0, 3, 16], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"from": [13, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 3], "texture": "#texture", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [13, 0, 16, 3], "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#texture"},
+				"up": {"uv": [13, 16, 16, 0], "texture": "#texture"},
+				"down": {"uv": [13, 0, 16, 16], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 0],
+			"to": [13, 3, 3],
+			"faces": {
+				"north": {"uv": [3, 16, 13, 13], "texture": "#texture", "cullface": "north"},
+				"south": {"uv": [3, 3, 13, 0], "texture": "#texture"},
+				"up": {"uv": [3, 16, 13, 13], "texture": "#texture"},
+				"down": {"uv": [3, 13, 13, 16], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 13],
+			"to": [13, 3, 16],
+			"faces": {
+				"north": {"uv": [3, 3, 13, 0], "texture": "#texture"},
+				"south": {"uv": [3, 3, 13, 0], "texture": "#texture", "cullface": "south"},
+				"up": {"uv": [3, 3, 13, 0], "texture": "#texture"},
+				"down": {"uv": [3, 0, 13, 3], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 9],
+			"to": [13, 3, 12],
+			"faces": {
+				"north": {"uv": [3, 3, 13, 0], "texture": "#texture"},
+				"south": {"uv": [3, 3, 13, 0], "texture": "#texture"},
+				"up": {"uv": [3, 7, 13, 4], "texture": "#texture"},
+				"down": {"uv": [3, 4, 13, 7], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"from": [3, 0, 4],
+			"to": [13, 3, 7],
+			"faces": {
+				"north": {"uv": [3, 3, 13, 0], "texture": "#texture"},
+				"south": {"uv": [3, 3, 13, 0], "texture": "#texture"},
+				"up": {"uv": [3, 12, 13, 9], "texture": "#texture"},
+				"down": {"uv": [3, 9, 13, 12], "texture": "#texture", "cullface": "down"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}
