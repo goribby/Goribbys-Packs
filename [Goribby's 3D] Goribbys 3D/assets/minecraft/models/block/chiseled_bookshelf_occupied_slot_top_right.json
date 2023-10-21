@@ -1,0 +1,17 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "block/chiseled_bookshelf_occupied",
+		"texture": "block/chiseled_bookshelf_occupied"
+	},
+	"elements": [
+		{
+			"from": [1, 9, 1],
+			"to": [5, 15, 4],
+			"faces": {
+				"north": {"uv": [11, 1, 15, 7], "texture": "#texture", "cullface": "north"},
+				"east": {"uv": [11, 1, 14, 7], "texture": "#texture", "cullface": "north"}
+			}
+		}
+	]
+}
